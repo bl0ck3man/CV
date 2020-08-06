@@ -148,7 +148,7 @@ In my arsenal I prefer to use the following technology stack: PHP (Laravel), goL
 -   [Качаем ловкость MySQL - youtube](https://www.youtube.com/watch?v=RTU4MqIbLpg)
 
 ## Contact Info
-Telegram: @SergeyWh1te 
-Skype bl0ck3man
-[linkedin.com/in/sergey-white](https://www.linkedin.com/in/sergey-white)
-[srsergey.ivanenko@gmail.com](mailto:srsergey.ivanenko@gmail.com)
+- Telegram: @SergeyWh1te 
+- Skype bl0ck3man
+- [linkedin.com/in/sergey-white](https://www.linkedin.com/in/sergey-white)
+
