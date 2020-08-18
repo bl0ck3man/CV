@@ -51,7 +51,7 @@ analysis buying or selling seed.
   
 **Technologies**:​ docker, mysql 8, postgres 9.6 , php 7.3.5, laravel 5.8,  
 react/redux, react native, vue, graphql, redis, rabbitmq.
-
+* * * * 
 ## Lead Software Developer at Highway
 #### Dates Employed Jan 2017 – Nov 2018
 #### Employment Duration 1 yr 11 mos
@@ -74,7 +74,7 @@ react/redux, react native, vue, graphql, redis, rabbitmq.
 **Technologies**:​ MySql(5.5 -> 8.0.12), php(5.5 -> 7.0 -> 7.1 -> 7.2 -> 7.3.5), Redis, RabbitMQ, React/Redux, Docker/Docker compose, jquery
 
 [](https://www.linkedin.com/company/autoclassics/)
-
+* * * * 
 ## Senior Software Developer at autoclassics.com
 
 #### Dates EmployedSep 2017 – Nov 2017
@@ -95,7 +95,7 @@ https://www.motorious.com. It's union previous autoclassics.co and www.motorgt.c
 * jquery, Vue
 
 [](https://www.linkedin.com/search/results/all/?keywords=%D0%92%D0%B5%D0%B7%D0%B5%D1%82%20%D0%92%D1%81%D0%B5%D0%BC)
-
+* * * * 
 ### Backend developer at vezetvsem.ru
 #### Dates Employed Mar 2015 – Mar 2017
 #### Employment Duration 2 yrs 1 mo
@@ -115,7 +115,7 @@ https://www.motorious.com. It's union previous autoclassics.co and www.motorgt.c
 4. Optimization network queries for web application from 1000 to 24  
   
 **Technologies**: CodeIgniter, php, MySql, Redis, Sphinx, RabbitMQ
-
+* * * * 
 ## Oracle SQL PL/SQL developer
 #### Dates Employed Nov 2012 – Feb 2015
 #### Employment Duration 2 yrs 4 mos
